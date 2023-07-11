@@ -16,7 +16,7 @@ Step 5: Run the scraper code using
 
      python main.py
 
-The results will be stored into a zillow_data.json in your project directory. Using the search_term as Texas homes, we get the sample data shown below.
+The results will be stored into a zillow_data.json in your project directory. Using the search_term as Texas homes in Zillow, we get the sample data shown below.
 
 
 ```json
@@ -137,7 +137,7 @@ The results will be stored into a zillow_data.json in your project directory. Us
 
 <br>
 
-### To collect review data from Google on scale and without code visit [Scrapehero Cloud](https://www.scrapehero.com/marketplace/zillow-scraper/).
+### To collect property listing data from Zillow on scale and without code visit [Scrapehero Cloud](https://www.scrapehero.com/marketplace/zillow-scraper/).
 
 <br>
 
