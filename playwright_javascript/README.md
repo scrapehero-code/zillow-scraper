@@ -14,7 +14,7 @@ Step 5: Run the scraper code using
 >` node main.js`
 
 The results will be stored into a `zillow_data_js.json` in your project directory.
-Using the search_term as `Texas Homes for Sale` we get the sample data shown below.
+Using the search_term as `Texas Homes for Sale` in Zillow, we get the sample data shown below.
 ```json
     {
         "Address": "2604 Ruby Dr, Texas City, TX 77591",
